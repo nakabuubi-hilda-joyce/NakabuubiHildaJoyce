@@ -1,0 +1,17 @@
+{
+  "REG001": {
+    "address": "123 Maple St, Springfield",
+    "contact": "+1-555-0101",
+    "program": "Computer Science"
+  },
+  "REG002": {
+    "address": "456 Oak Ave, Metropolis",
+    "contact": "+1-555-0102",
+    "program": "Information Technology"
+  },
+  "REG003": {
+    "address": "789 Pine Rd, Gotham",
+    "contact": "+1-555-0103",
+    "program": "Software Engineering"
+  }
+}
